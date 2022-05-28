@@ -1,13 +1,5 @@
 # Spam_detection-using-ML-NLP
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>This is project result video</h1>
 
-<video width="320" height="240" controls>
-  <source src="video/spam detection video.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/86975963/170816374-662ce3f9-b00d-4717-97d2-6ab00ed4d133.mp4
 
-</body>
-</html>
